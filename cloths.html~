@@ -57,7 +57,7 @@
           
         <div class="row">
             <div class="col-lg-12">
-                <h1 class="page-header">Головные уборы
+                <h1 class="page-header">Коллекция Зима 2014
                     <small>на заказ</small>
                 </h1>
             </div>
@@ -68,13 +68,13 @@
         <div class="row">
             <div class="col-md-7">
                 <a href="#">
-                    <img class="img-responsive" src="images/13.JPG" alt="Комплект шапка + снуд из трикотажа с начесом.">
+                    <img class="img-responsive" src="images/14.JPG" alt="Комплект: толстовка + деггинсы на малышей.">
                 </a>
             </div>
             <div class="col-md-5">
-                <h3>Д1</h3>
-                <h4>Стоимость: от 3500 тенге.</h4>
-                <p>Комплект шапка + снуд из трикотажа с начесом.</p>
+                <h3>Д6</h3>
+                <h4>Стоимость: от 4500 тенге.</h4>
+                <p>Комплект: толстовка + деггинсы на малышей.</p>
                 
             </div>
         </div>
@@ -85,64 +85,13 @@
         <div class="row">
             <div class="col-md-7">
                 <a href="#">
-                    <img class="img-responsive" src="images/12.JPG" alt="Комплект шапка + снуд из трикотажа.">
+                    <img class="img-responsive" src="images/8.JPG" alt="Комплект для маленькой модницы: гетры и бантик.">
                 </a>
             </div>
             <div class="col-md-5">
-                <h3>Д2</h3>
-                <h4>Стоимость: 3500 тенге.</h4>
-                <p>Комплект шапка + снуд из трикотажа.</p>
-                
-            </div>
-        </div>
-        <!-- /.row -->
-
-        <hr>
-        <!-- Project 3 -->
-        <div class="row">
-            <div class="col-md-7">
-                <a href="#">
-                    <img class="img-responsive" src="images/10.JPG" alt="Шапка Санты. ">
-                </a>
-            </div>
-            <div class="col-md-5">
-                <h3>Д3</h3>
-                <h4>Стоимость: 2500 тенге.</h4>
-                <p>Шапка Санты. </p>
-                
-            </div>
-        </div>
-        <!-- /.row -->
-
-        <hr>
-        <!-- Project 4 -->
-        <div class="row">
-            <div class="col-md-7">
-                <a href="#">
-                    <img class="img-responsive" src="images/11.JPG" alt="Комплект шапка + снуд из трикотажа.">
-                </a>
-            </div>
-            <div class="col-md-5">
-                <h3>Д4</h3>
-                <h4>Стоимость: 3500 тенге.</h4>
-                <p>Комплект шапка + снуд из трикотажа.</p>
-                
-            </div>
-        </div>
-        <!-- /.row -->
-
-        <hr>
-        <!-- Project 5 -->
-        <div class="row">
-            <div class="col-md-7">
-                <a href="#">
-                    <img class="img-responsive" src="images/9.JPG" alt="Шапка в форме колпака с меховым помпоном и снуд.">
-                </a>
-            </div>
-            <div class="col-md-5">
-                <h3>Д5</h3>
-                <h4>Стоимость: 4000 тенге.</h4>
-                <p>Шапка в форме колпака с меховым помпоном и снуд.</p>
+                <h3>Д7</h3>
+                <h4>Стоимость: 1500 тенге.</h4>
+                <p>Комплект для маленькой модницы: гетры и бантик.</p>
                 
             </div>
         </div>
@@ -150,7 +99,6 @@
 
         <hr>
           </div>
-
 
            <!-- Footer -->
         <footer>

@@ -36,80 +36,35 @@
 
         <div class="cover-container">
 
-         
-          
+          <div class="masthead clearfix">
             <div class="inner">
               <h3 class="masthead-brand">DarinaPolina</h3>
               <nav>
                 <ul class="nav masthead-nav">
                   <li><a href="index.html">Главная</a></li>
-                  <li><a href="about_us.html">О нас</a></li>
-                  <li class="active"><a href="collection.html">Коллекция</a></li>
+                  <li class="active"><a href="about_us.html">О нас</a></li>
+                  <li><a href="collection.html">Коллекция</a></li>
                   <li><a href="buy.html">Купить</a></li>
                   <li><a href="https://docs.google.com/forms/d/1alXQOkj2A60UIuqJNCbYQ89m6pFEwK_wmpxF8xk4R4E/viewform?usp=send_form">Связь</a></li>
                 </ul>
               </nav>
             </div>
-          
-
-
-
-          
-        <div class="row">
-            <div class="col-lg-12">
-                <h1 class="page-header">Одежда
-                    <small>на заказ</small>
-                </h1>
-            </div>
-        </div>
-        <!-- /.row -->
-
-        <!-- Project 1 -->
-        <div class="row">
-            <div class="col-md-7">
-                <a href="#">
-                    <img class="img-responsive" src="images/14.JPG" alt="Комплект: толстовка + деггинсы на малышей.">
-                </a>
-            </div>
-            <div class="col-md-5">
-                <h3>Д6</h3>
-                <h4>Стоимость: от 4500 тенге.</h4>
-                <p>Комплект: толстовка + деггинсы на малышей.</p>
-                
-            </div>
-        </div>
-        <!-- /.row -->
-
-        <hr>
-        <!-- Project 2 -->
-        <div class="row">
-            <div class="col-md-7">
-                <a href="#">
-                    <img class="img-responsive" src="images/8.JPG" alt="Комплект для маленькой модницы: гетры и бантик.">
-                </a>
-            </div>
-            <div class="col-md-5">
-                <h3>Д7</h3>
-                <h4>Стоимость: 1500 тенге.</h4>
-                <p>Комплект для маленькой модницы: гетры и бантик.</p>
-                
-            </div>
-        </div>
-        <!-- /.row -->
-
-        <hr>
           </div>
 
-           <!-- Footer -->
-        <footer>
-            <div class="row">
-                <div class="col-lg-12">
-                    <p>Copyright &copy; DarinaPolina 2015</p>
-                </div>
-            </div>
-            <!-- /.row -->
-        </footer>
+          <div class="inner cover">
+            <h1 class="cover-heading">DarinaPolina</h1>
+            <p class="lead">Рождение дочери вдохновило меня на создание аксессуаров для девочек, одежды для малышей и комплектов в стиле familylook... Но это создавалось только для нас, пока знакомые и даже незнакомые люди не стали говорить о том, что им нравятся мои работы. Тогда, я приняла решение воплощать свои идеи не только для себя и малышки... <br>Здесь Вы найдете украшения в виде заколок, повязок, бантиков, корон, а также головные уборы, снуды, толстовки и леггинсы, и это только начало!</p>
+            <p class="lead">
+              <a href="collection.html" class="btn btn-lg btn-default">Смотреть коллекцию</a>
+            </p>
+          </div>
 
+          <div class="mastfoot">
+            <div class="inner">
+              <p>За дополнительной информицией обращайтесь по телефону +7 701 444 4563.</p>
+              <p>Copyright &copy; DarinaPolina 2015</p>
+            </div>
+          </div>
 
         </div>
 
