@@ -1,0 +1,13 @@
+User-agent: *
+
+Allow: /
+
+Sitemap: http://www.darinapolina.com/sitemap.xml
+
+User-agent: googlebot
+
+Allow: /
+
+
+
+
